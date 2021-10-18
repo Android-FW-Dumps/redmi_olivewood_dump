@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screen_light>
+	<screen vendor="tianma"> 
+		<light DUV="0.005" B="180" G="202" R="255" CCT="2310"/>
+		<light DUV="0.005" B="180" G="202" R="255" CCT="2400" deltaCCT="400"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="2600" deltaCCT="200"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="2800" deltaCCT="200"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="3000" deltaCCT="200"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="3200" deltaCCT="200"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="3400" deltaCCT="200"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="3600" deltaCCT="200"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="3800" deltaCCT="200"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="4000" deltaCCT="200"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="4200" deltaCCT="200"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="4500" deltaCCT="300"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="4800" deltaCCT="300"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="5100" deltaCCT="300"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="5600" deltaCCT="500"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="6100" deltaCCT="500"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="6600" deltaCCT="500"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="7100" deltaCCT="500"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="7600" deltaCCT="500"/>
+    <light DUV="0.005" B="180" G="202" R="255" CCT="8100" deltaCCT="500"/>
+	</screen>
+	<screen vendor="truly"> 
+		<light DUV="0.003" B="200" G="220" R="255" CCT="2310"/>
+		<light DUV="0.003" B="200" G="220" R="255" CCT="2400" deltaCCT="400"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="2600" deltaCCT="200"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="2800" deltaCCT="200"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="3000" deltaCCT="200"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="3200" deltaCCT="200"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="3400" deltaCCT="200"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="3600" deltaCCT="200"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="3800" deltaCCT="200"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="4000" deltaCCT="200"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="4200" deltaCCT="200"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="4500" deltaCCT="300"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="4800" deltaCCT="300"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="5100" deltaCCT="300"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="5600" deltaCCT="500"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="6100" deltaCCT="500"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="6600" deltaCCT="500"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="7100" deltaCCT="500"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="7600" deltaCCT="500"/>
+    <light DUV="0.003" B="200" G="220" R="255" CCT="8100" deltaCCT="500"/>
+	</screen>
+  <screen vendor="tianma_in"> 
+		<light DUV="0.004" B="173" G="215" R="255" CCT="2310"/>
+		<light DUV="0.004" B="173" G="215" R="255" CCT="2400" deltaCCT="400"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="2600" deltaCCT="200"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="2800" deltaCCT="200"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="3000" deltaCCT="200"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="3200" deltaCCT="200"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="3400" deltaCCT="200"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="3600" deltaCCT="200"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="3800" deltaCCT="200"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="4000" deltaCCT="200"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="4200" deltaCCT="200"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="4500" deltaCCT="300"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="4800" deltaCCT="300"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="5100" deltaCCT="300"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="5600" deltaCCT="500"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="6100" deltaCCT="500"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="6600" deltaCCT="500"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="7100" deltaCCT="500"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="7600" deltaCCT="500"/>
+    <light DUV="0.004" B="173" G="215" R="255" CCT="8100" deltaCCT="500"/>
+	</screen>
+	<screen vendor="truly_in"> 
+		<light DUV="0.003" B="240" G="250" R="255" CCT="2310"/>
+		<light DUV="0.003" B="240" G="250" R="255" CCT="2400" deltaCCT="400"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="2600" deltaCCT="200"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="2800" deltaCCT="200"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="3000" deltaCCT="200"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="3200" deltaCCT="200"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="3400" deltaCCT="200"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="3600" deltaCCT="200"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="3800" deltaCCT="200"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="4000" deltaCCT="200"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="4200" deltaCCT="200"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="4500" deltaCCT="300"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="4800" deltaCCT="300"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="5100" deltaCCT="300"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="5600" deltaCCT="500"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="6100" deltaCCT="500"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="6600" deltaCCT="500"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="7100" deltaCCT="500"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="7600" deltaCCT="500"/>
+    <light DUV="0.003" B="240" G="250" R="255" CCT="8100" deltaCCT="500"/>
+	</screen>
+	<screen vendor="ebbg">
+		<light DUV="0.001" B="66" G="143" R="255" CCT="2310"/>
+		<light DUV="0.001" B="71" G="150" R="255" CCT="2400" deltaCCT="400"/>
+    <light DUV="0.001" B="79" G="156" R="255" CCT="2600" deltaCCT="200"/>
+    <light DUV="0.001" B="89" G="166" R="255" CCT="2800" deltaCCT="200"/>
+    <light DUV="0.001" B="101" G="173" R="255" CCT="3000" deltaCCT="200"/>
+    <light DUV="0.001" B="110" G="179" R="255" CCT="3200" deltaCCT="200"/>
+    <light DUV="0.001" B="117" G="184" R="255" CCT="3400" deltaCCT="200"/>
+    <light DUV="0.001" B="129" G="190" R="255" CCT="3600" deltaCCT="200"/>
+    <light DUV="0.001" B="136" G="195" R="255" CCT="3800" deltaCCT="200"/>
+    <light DUV="0.001" B="143" G="199" R="255" CCT="4000" deltaCCT="200"/>
+    <light DUV="0.001" B="154" G="204" R="255" CCT="4200" deltaCCT="200"/>
+    <light DUV="0.001" B="166" G="212" R="255" CCT="4500" deltaCCT="300"/>
+    <light DUV="0.001" B="179" G="218" R="255" CCT="4800" deltaCCT="300"/>
+    <light DUV="0.001" B="187" G="222" R="255" CCT="5100" deltaCCT="300"/>
+    <light DUV="0.001" B="204" G="232" R="255" CCT="5600" deltaCCT="500"/>
+    <light DUV="0.001" B="219" G="240" R="255" CCT="6100" deltaCCT="500"/>
+    <light DUV="0.001" B="233" G="244" R="255" CCT="6600" deltaCCT="500"/>
+    <light DUV="0.001" B="247" G="252" R="255" CCT="7100" deltaCCT="500"/>
+    <light DUV="0.001" B="255" G="249" R="246" CCT="7600" deltaCCT="500"/>
+    <light DUV="0.001" B="255" G="245" R="237" CCT="8100" deltaCCT="500"/>
+	</screen>
+	<screen vendor="ebbg_in">
+		<light DUV="0.001" B="66" G="143" R="255" CCT="2310"/>
+		<light DUV="0.001" B="71" G="150" R="255" CCT="2400" deltaCCT="400"/>
+    <light DUV="0.001" B="79" G="156" R="255" CCT="2600" deltaCCT="200"/>
+    <light DUV="0.001" B="89" G="166" R="255" CCT="2800" deltaCCT="200"/>
+    <light DUV="0.001" B="101" G="173" R="255" CCT="3000" deltaCCT="200"/>
+    <light DUV="0.001" B="110" G="179" R="255" CCT="3200" deltaCCT="200"/>
+    <light DUV="0.001" B="117" G="184" R="255" CCT="3400" deltaCCT="200"/>
+    <light DUV="0.001" B="129" G="190" R="255" CCT="3600" deltaCCT="200"/>
+    <light DUV="0.001" B="136" G="195" R="255" CCT="3800" deltaCCT="200"/>
+    <light DUV="0.001" B="143" G="199" R="255" CCT="4000" deltaCCT="200"/>
+    <light DUV="0.001" B="154" G="204" R="255" CCT="4200" deltaCCT="200"/>
+    <light DUV="0.001" B="166" G="212" R="255" CCT="4500" deltaCCT="300"/>
+    <light DUV="0.001" B="179" G="218" R="255" CCT="4800" deltaCCT="300"/>
+    <light DUV="0.001" B="187" G="222" R="255" CCT="5100" deltaCCT="300"/>
+    <light DUV="0.001" B="204" G="232" R="255" CCT="5600" deltaCCT="500"/>
+    <light DUV="0.001" B="219" G="240" R="255" CCT="6100" deltaCCT="500"/>
+    <light DUV="0.001" B="233" G="244" R="255" CCT="6600" deltaCCT="500"/>
+    <light DUV="0.001" B="247" G="252" R="255" CCT="7100" deltaCCT="500"/>
+    <light DUV="0.001" B="255" G="249" R="246" CCT="7600" deltaCCT="500"/>
+    <light DUV="0.001" B="255" G="245" R="237" CCT="8100" deltaCCT="500"/>
+	</screen>
+</screen_light>

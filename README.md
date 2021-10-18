@@ -1,0 +1,14 @@
+# olivewood-user 10 QKQ1.191014.001 V12.5.1.0.QCQINXM release-keys
+- manufacturer: xiaomi
+- platform: msm8937
+- codename: olivewood
+- flavor: olivewood-user
+- release: 10
+- id: QKQ1.191014.001
+- incremental: V12.5.1.0.QCQINXM
+- tags: release-keys
+- fingerprint: Redmi/olivewood/olivewood:10/QKQ1.191014.001/V12.5.1.0.QCQINXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: olivewood-user-10-QKQ1.191014.001-V12.5.1.0.QCQINXM-release-keys
+- repo: redmi_olivewood_dump

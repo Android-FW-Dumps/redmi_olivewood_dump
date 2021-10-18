@@ -1,0 +1,3 @@
+require version-baseband=3.2-00196-SDM439_GENNS_PACK-2.391399.2.406510.2
+require version-trustzone=TZ.BF.4.0.5-342361
+require version-vendor=1627025043

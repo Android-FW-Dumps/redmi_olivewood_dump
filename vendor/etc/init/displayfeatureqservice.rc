@@ -1,0 +1,4 @@
+service displayfeatureqservice /vendor/bin/hw/displayfeatureqservice
+    class hal
+    user system
+    group system
